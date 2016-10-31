@@ -1,0 +1,17 @@
+{
+  "name": "socket.io-client",
+  "version": "1.5.1",
+  "keywords": [
+    "realtime",
+    "framework",
+    "websocket",
+    "tcp",
+    "events",
+    "client"
+  ],
+  "main": ".socket.io.js",
+  "ignore": [
+    "package.json"
+  ],
+  "license": "MIT"
+}
