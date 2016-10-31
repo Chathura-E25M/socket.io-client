@@ -9,7 +9,7 @@
     "events",
     "client"
   ],
-  "main": ".socket.io.js",
+  "main": "./socket.io.js",
   "ignore": [
     "package.json"
   ],
